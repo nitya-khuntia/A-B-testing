@@ -1,6 +1,6 @@
 # A/B testing
 
-# Objective: Evaluate the impact of a redesigned loan application form on loan conversion rates for XYZ.
+# Objective: Evaluate the impact of a redesigned loan application form on loan conversion rates
 
 # Hypotheses:
 
