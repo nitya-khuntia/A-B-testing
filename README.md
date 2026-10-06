@@ -41,4 +41,4 @@ Furthermore, the power of the test was satisfactory, indicating that we had a hi
 
 The power of a test is the probability that the test correctly rejects a false null hypothesis (a type II error). 
 
-Therefore, we can conclude that the redesigned loan application form has a positive impact on loan conversion rates for XYZ, and the company should implement it on a larger scale
+Therefore, we can conclude that the redesigned loan application form has a positive impact on loan conversion rates for XYZ, and the company should implement it on a larger scale.
