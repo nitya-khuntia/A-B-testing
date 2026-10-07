@@ -39,6 +39,4 @@ Based on the A/B test we performed, we found that the loan conversion rate for t
 
 Furthermore, the power of the test was satisfactory, indicating that we had a high probability of correctly rejecting the null hypothesis when it was false.In the A/B test example we conducted , we set the desired power to be 0.8. This means that we want to have an 80% chance of detecting a true difference if it exists.
 
-The power of a test is the probability that the test correctly rejects a false null hypothesis (a type II error). 
-
 Therefore, we can conclude that the redesigned loan application form has a positive impact on loan conversion rates for XYZ, and the company should implement it on a larger scale.
